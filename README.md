@@ -1,6 +1,6 @@
 # Daily Motivation Chrome Extension
 
-![Extension Icon](icon.png)
+
 
 ## Overview
 
