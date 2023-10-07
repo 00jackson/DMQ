@@ -21,10 +21,20 @@ The **Daily Motivation** Chrome Extension is a simple yet effective tool designe
 4. Enable "Developer mode" in the top-right corner.
 5. Click "Load unpacked" and select the extension folder.
 
+
 ## Usage
 
 - Click the Daily Motivation icon in the Chrome toolbar to see your daily quote.
 - Click the "Let's Connect" link to connect with me on LinkedIn.
+
+## Future Additions
+
+We have exciting plans to enhance the **Daily Motivation** Chrome Extension further:
+
+- **Customization**: Personalize your daily quotes by selecting from different themes, fonts, and backgrounds.
+- **Quote Sharing**: Easily share your favorite quotes with friends and colleagues on social media.
+- **Daily Reminders**: Set reminders to receive your daily dose of motivation at a specific time.
+- **Community Contributions**: We welcome contributions from the community. Feel free to suggest new features and improvements.
 
 ## Contributing
 
@@ -34,10 +44,6 @@ Contributions are welcome! Feel free to open issues and pull requests.
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
 
-- Extension icon: [Community manager icons created by lutfix - Flaticon](https://www.flaticon.com/free-icons/community-manager)
-
----
 
 **Daily Motivation** Chrome Extension by [Jackson Kujur](https://www.linkedin.com/in/contact-jacksonkujur/).
